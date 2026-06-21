@@ -1,0 +1,11 @@
+name: resto_mock_api
+description: Local mock REST API that serves the restaurant menu data.
+publish_to: 'none'
+version: 1.0.0
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  shelf: ^1.4.2
+  shelf_router: ^1.1.4
